@@ -1,4 +1,4 @@
-package exercicio0907;
+package br.com.selva.util;
 
 import java.util.Random;
 
